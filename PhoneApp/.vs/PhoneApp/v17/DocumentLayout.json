@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E987C73E-A928-441C-8CE0-F13C932D7F28}|PhoneApp\\PhoneApp.csproj|c:\\users\\jozo\\source\\repos\\phoneapp\\phoneapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E987C73E-A928-441C-8CE0-F13C932D7F28}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E987C73E-A928-441C-8CE0-F13C932D7F28}|PhoneApp\\PhoneApp.csproj|c:\\users\\jozo\\source\\repos\\phoneapp\\phoneapp\\pravokutnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E987C73E-A928-441C-8CE0-F13C932D7F28}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\pravokutnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E987C73E-A928-441C-8CE0-F13C932D7F28}|PhoneApp\\PhoneApp.csproj|c:\\users\\jozo\\source\\repos\\phoneapp\\phoneapp\\kontakt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E987C73E-A928-441C-8CE0-F13C932D7F28}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\kontakt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pravokutnik.cs",
+              "DocumentMoniker": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\PhoneApp\\Pravokutnik.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Pravokutnik.cs",
+              "ToolTip": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\PhoneApp\\Pravokutnik.cs",
+              "RelativeToolTip": "PhoneApp\\Pravokutnik.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:59:56.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kontakt.cs",
+              "DocumentMoniker": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\PhoneApp\\Kontakt.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Kontakt.cs",
+              "ToolTip": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\PhoneApp\\Kontakt.cs",
+              "RelativeToolTip": "PhoneApp\\Kontakt.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:22:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\PhoneApp\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Jozo\\source\\repos\\PhoneApp\\PhoneApp\\Program.cs",
+              "RelativeToolTip": "PhoneApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:20:52.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
